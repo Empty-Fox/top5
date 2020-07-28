@@ -1,0 +1,28 @@
+#slide {
+    width:auto;
+    margin: 30px;
+}
+.slide-single {  
+    width:auto;
+    position: absolute;
+    transition: all ease 8s;
+    left: 0;
+    top: 0;
+    margin: 0;
+      
+}
+
+
+#slide_m {
+    width:auto;
+    margin: 30px;
+}
+.slide-single_m {  
+    width:auto;
+    position: absolute;
+    transition: all ease 8s;
+    left: 0;
+    top: 0;
+    margin: 0;
+      
+}
